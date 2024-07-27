@@ -45,7 +45,7 @@ This project consists of a Node.js server and a C++ client to simulate a tempera
     cd emulator
     ./SensorEmulator
 
-3. Run ioTEmulatorCtrl.apk
+3. Run IoTEmulatorCtrl.apk
 
     ![frontend](images/frontend_screen.png)
 
@@ -55,7 +55,7 @@ This project consists of a Node.js server and a C++ client to simulate a tempera
 
 1. Start the Emulator
 
-    * Endpoint: ```http://127.0.0.1:3001/start``
+    * Endpoint: ```http://127.0.0.1:3001/start```
     * Method: ```POST```
     * Description: Sends the start command to the emulator to begin data generation.
 
