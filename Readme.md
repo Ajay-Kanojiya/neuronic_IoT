@@ -49,7 +49,7 @@ This project consists of a Node.js server and a C++ client to simulate a tempera
 
     ![frontend](images/frontend_screen.png)
 
-#### Note: If you install app in andriod phone then values will not be updated because it used the localhost to hit the API.
+#### Note: If you install app in andriod phone then values will not be updated because it used the localhost to hit the API. Run the flutter app from source inorder to work.
 
 ## API Endpoints
 
